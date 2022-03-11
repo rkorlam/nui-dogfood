@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UserMessages xml:lang="en" >
-    <UserMessage nui="true" ID="helloWorld1">Hello World1</UserMessage>
+    <UserMessage nui="true" ID="helloWorld">Hello World</UserMessage>
 </UserMessages>
